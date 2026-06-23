@@ -69,7 +69,14 @@ Reference Voltage
 - Stability performance evaluation
 
 ---
+## Key Results
 
+- Rise Time: 25.3 s
+- Settling Time: 44.84 s
+- Overshoot: 0 %
+- Peak Value: 0.9983
+- Fault Status: Fault Detected
+---
 ## Performance Parameters
 
 - Rise Time
